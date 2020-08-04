@@ -1,4 +1,4 @@
-ServerCop#039 www.invite.gg/servercop
+ServerCop#0392 www.invite.gg/servercop
 
 The perfect script for RP/Chat commands in your FiveM server, with the ability to customize the colors and formatting.
 

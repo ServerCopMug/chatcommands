@@ -1,0 +1,14 @@
+----------------------------
+----------------------------
+-------ServerCop#0392-------
+--www.invite.gg/servercop--
+----------------------------
+----------------------------
+
+1. Download latest file 
+2. Extract to desktop
+3. Copy 'chatcmds' into your 'resources' folder. 
+4. Add 'start chatcmds' into your server.cfg. 
+5. Restart server and enjoy!
+
+**To change colors/formatting of commands refrence: https://forum.cfx.re/t/chat-formatting-colors-bold-underline/67641**
